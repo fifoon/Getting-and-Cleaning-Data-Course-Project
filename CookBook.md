@@ -11,7 +11,8 @@ UCI HAR Dataset/test/X_test.txt
 UCI HAR Dataset/test/Y_test.txt
 UCI HAR Dataset/test/subject_test.txt
 
-activity can be devided into 6 categories
+Activity can be devided into 6 categories
+
 WALKING
 WALKING_UPSTAIRS
 WALKING_DOWNSTAIRS
