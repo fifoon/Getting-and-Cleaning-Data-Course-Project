@@ -30,7 +30,7 @@ Extractedfeatures.names
 #4.Uses descriptive activity names to name the activities in the data set
 #Rename -mean to Mean
 Extractedfeatures.names = gsub('-mean', 'Mean', Extractedfeatures.names)
-#Rename -std to Std
+#Rename -std to StdDev
 Extractedfeatures.names = gsub('-std', 'StdDev', Extractedfeatures.names)
 #Make Gravity word consistent
 Extractedfeatures.names <- gsub('([Gg]ravity)','Gravity', Extractedfeatures.names)
