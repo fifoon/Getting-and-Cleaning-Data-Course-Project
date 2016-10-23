@@ -1,8 +1,25 @@
 
+# Description
+The purpose of run_analysis.R is to post process these files and creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+UCI HAR Dataset/features.txt
+UCI HAR Dataset/activity_labels.txt
+UCI HAR Dataset/train/X_train.txt
+UCI HAR Dataset/train/Y_train.txt
+UCI HAR Dataset/train/subject_train.txt
+UCI HAR Dataset/test/X_test.txt
+UCI HAR Dataset/test/Y_test.txt
+UCI HAR Dataset/test/subject_test.txt
 
+activity can be devided into 6 categories
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
 
-Measurement 
+# Measurement 
 
  "tBodyAccMeanX"                  "tBodyAccMeanY"                 
  "tBodyAccMeanZ"                  "tBodyAccStdDevX"               
